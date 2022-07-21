@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/PJC/2 sem/PJAText2/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+sstream
+-
+string
+-
+operations.hpp
+E:/PJC/2 sem/PJAText2/operations.hpp
+
+E:/PJC/2 sem/PJAText2/operations.hpp
+iostream
+-
+vector
+-
+fstream
+-
+iterator
+-
+algorithm
+-
+
